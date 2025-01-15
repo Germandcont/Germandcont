@@ -1,12 +1,12 @@
 # Hi 👋, I'm Germán Domínguez 
 
-🎓 Studied ***Business Administration and Economics*** at Universidad Del Desarrollo, Chile
+🎓 Studied ***Business Administration and Economics*** at Universidad Del Desarrollo, Chile <br/>
 (5-year program covering finance, economics, statistics, econometrics, corporate valuation and administration) <br/>
 🌱 I’m currently learning ***Data Science and Machine Learning at Upgrade-Hub*** <br/>
 📫 How to reach me: gdominguezcon@gmail.com <br/>
 📍 Living in Madrid, Spain
 
-### Interests 🌟
+### Interests and Goals🌟
 Passionate about Data Science, Business Intelligence, and Digital Innovation, with a strong interest in analytics and predictive modeling. I consider myself a self-taught, problem-solving individual who enjoys working in a team.
 
 
