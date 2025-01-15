@@ -6,7 +6,7 @@
 📍 Living in Madrid, Spain
 
 
-## Tech ToolBox
+## Tech ToolBox 🛠️
 
 - Languages: Python, DAX, SQL
 - Frameworks & Libraries: Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn, Tensorflow
