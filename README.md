@@ -1,6 +1,6 @@
 # Hi 👋, I'm Germán Domínguez 
 
-🎓 Studied ***Business Administration and Economics*** at Universidad Del Desarrollo, Chile <br/>
+🎓 Studied ***Ingeniería Comercial (Business Administration and Economics)*** at Universidad Del Desarrollo, Chile <br/>
 (5-year program covering finance, economics, statistics, econometrics, corporate valuation and administration) <br/>
 🌱 I’m currently learning ***Data Science and Machine Learning at Upgrade-Hub*** <br/>
 📫 How to reach me: gdominguezcon@gmail.com <br/>
@@ -19,6 +19,4 @@ I seek challenges that encourage growth and foster innovation
 - Languages: Python, DAX, SQL
 - Frameworks & Libraries: Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn, Tensorflow
 - Visualization and others : Power BI, Streamlit, Azure
-
-
 
