@@ -6,10 +6,10 @@
 📫 How to reach me: gdominguezcon@gmail.com <br/>
 
 ### Interests and Goals🌟
-Passionate about Data Science, Business Intelligence, and Digital Innovation, with a strong interest in analytics and predictive modeling. I consider myself a self-taught, problem-solving individual who enjoys working in a team.
+Passionate about Data, with a strong interest in analytics and predictive modeling. I consider myself a self-taught, problem-solving individual who enjoys working in a team.
 
 
-Currently, I am actively persuing a junior position where I can apply and expand my skills in data analysis and predictive modeling. I want to join a team and a company that values growth, learning, and innovation, and where I can contribute meaningfully to challenging projects while developing my technical expertise.
+Currently, I am actively persuing a junior position where I can apply and expand my skills. I want to join a team and a company that values growth, learning, and innovation, and where I can contribute meaningfully to challenging projects while developing my technical expertise.
 
 I seek challenges that encourage growth and foster innovation
 
