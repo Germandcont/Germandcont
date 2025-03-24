@@ -17,5 +17,5 @@ I seek challenges that encourage growth and foster innovation
 
 - Languages: Python, DAX, SQL
 - Frameworks & Libraries: Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn, Tensorflow
-- Visualization and others : Power BI, Streamlit, Azure
+- Visualization and others : Excel, Power BI, Streamlit, Azure
 
