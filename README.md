@@ -11,11 +11,11 @@ Passionate about Data, with a strong interest in analytics and predictive modeli
 
 Currently, I am actively persuing a junior position where I can apply and expand my skills. I want to join a team and a company that values growth, learning, and innovation, and where I can contribute meaningfully to challenging projects while developing my technical expertise.
 
-I seek challenges that encourage growth and foster innovation
+I seek challenges that encourage growth and foster innovation.
 
 ## Tech ToolBox 🛠️
 
-- Languages: Python, DAX, SQL
-- Frameworks & Libraries: Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn, Tensorflow
-- Visualization and others : Excel, Power BI, Streamlit, Azure
+- Languages: Python, DAX, SQL.
+- Frameworks & Libraries: Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn, Tensorflow.
+- Visualization and others : Excel, Power BI, Streamlit, Azure.
 
