@@ -1,4 +1,4 @@
-# Hi 👋, I'm Germán Domínguez 
+# Hi 👋, I'm Germán  
 
 🎓 Studied ***Ingeniería Comercial (Business Economics and Finance)*** at [Universidad Del Desarrollo](https://negocios.udd.cl/), Chile <br/>
 (5-year program covering finance, economics, statistics, econometrics, corporate valuation and administration) <br/>
